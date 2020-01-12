@@ -1,0 +1,9 @@
+C:\Users\Livia\source\repos\App2\Add_Birthday\bin\Debug\Add_Birthday.exe.config
+C:\Users\Livia\source\repos\App2\Add_Birthday\bin\Debug\Add_Birthday.exe
+C:\Users\Livia\source\repos\App2\Add_Birthday\bin\Debug\Add_Birthday.pdb
+C:\Users\Livia\source\repos\App2\Add_Birthday\obj\Debug\Add_Birthday.csprojAssemblyReference.cache
+C:\Users\Livia\source\repos\App2\Add_Birthday\obj\Debug\Add_Birthday.Form1.resources
+C:\Users\Livia\source\repos\App2\Add_Birthday\obj\Debug\Add_Birthday.Properties.Resources.resources
+C:\Users\Livia\source\repos\App2\Add_Birthday\obj\Debug\Add_Birthday.csproj.GenerateResource.cache
+C:\Users\Livia\source\repos\App2\Add_Birthday\obj\Debug\Add_Birthday.exe
+C:\Users\Livia\source\repos\App2\Add_Birthday\obj\Debug\Add_Birthday.pdb
