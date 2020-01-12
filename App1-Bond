@@ -19,7 +19,7 @@ namespace Display_Bond
             compareResult = String.Compare(string1, string2,
                                            StringComparison.Ordinal);
             
-            if (compareResult<=32)
+            if (compareResult <= 32)
             {
                 Console.WriteLine("Welcome back, 007!");
             }
