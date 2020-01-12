@@ -1,0 +1,32 @@
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Display_Bond
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string name = Console.ReadLine();
+            string string1 = "bond";
+            string string2 = "BOND";
+            int compareResult = 0;
+
+            compareResult = String.Compare(string1, string2,
+                                           StringComparison.Ordinal);
+            
+            if (compareResult<=32)
+            {
+                Console.WriteLine("Welcome back, 007!");
+            }
+            else
+            {
+                Console.WriteLine("Hello, Livia!");
+            }
+        }
+    }
+}
