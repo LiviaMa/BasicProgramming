@@ -1,0 +1,4 @@
+The following code example demonstrates the use of the ReadAllText method to display the contents of a file. 
+In this example a file is created,if it doesn't already exist, and text is added to it.
+The following code example demonstrates the use of the ReadAllText method to display the contents of a file. 
+In this example a file is created,if it doesn't already exist, and text is added to it.
