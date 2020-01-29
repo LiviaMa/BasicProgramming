@@ -1,0 +1,6 @@
+E:\git\HW_Session8\ShoppingList1\ShoppingList1\obj\Debug\ShoppingList1.csprojAssemblyReference.cache
+E:\git\HW_Session8\ShoppingList1\ShoppingList1\bin\Debug\ShoppingList1.exe.config
+E:\git\HW_Session8\ShoppingList1\ShoppingList1\bin\Debug\ShoppingList1.exe
+E:\git\HW_Session8\ShoppingList1\ShoppingList1\bin\Debug\ShoppingList1.pdb
+E:\git\HW_Session8\ShoppingList1\ShoppingList1\obj\Debug\ShoppingList1.exe
+E:\git\HW_Session8\ShoppingList1\ShoppingList1\obj\Debug\ShoppingList1.pdb

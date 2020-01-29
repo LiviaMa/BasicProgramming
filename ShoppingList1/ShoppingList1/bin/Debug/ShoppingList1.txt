@@ -1,0 +1,4 @@
+Bread | 1
+Coffee | 2
+Bananas | 9
+Eggs | 6
