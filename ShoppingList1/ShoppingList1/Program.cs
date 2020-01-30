@@ -11,17 +11,17 @@ namespace ShoppingList1
     {
         static void Main(string[] args)
         {
-            string path = @"e:\git\HW_Session8\ShoppingList1\ShoppingList1\bin\Debug\ShoppingList1.txt";
+            string path = @"e:\git\BasicProgramming\ShoppingList1\ShoppingList1\bin\Debug\ShoppingList1.txt";
 
             string[] readedText =File.ReadAllLines(path);
             int allItems = 0;
-            foreach (string element in readedText)
+            foreach (string line in readedText)
             {
-                string splitedText = element.Substring(element.IndexOf('|') + 1);
-                allItems += Convert.ToInt32(splitedText);
-
+                string[] shoppingItems = line.Split('|');
+                allItems += Convert.ToInt32(line.Split('|')[1]);
+                Console.WriteLine(line);
             }
-            Console.WriteLine(allItems);
+            Console.WriteLine(Environment.NewLine + "Number of all items is: " + allItems + Environment.NewLine);
 
         }
     }

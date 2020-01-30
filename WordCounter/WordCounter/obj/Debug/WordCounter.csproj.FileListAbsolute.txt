@@ -1,6 +1,0 @@
-E:\git\BasicPrograming\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
-E:\git\BasicPrograming\WordCounter\WordCounter\bin\Debug\WordCounter.exe
-E:\git\BasicPrograming\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
-E:\git\BasicPrograming\WordCounter\WordCounter\obj\Debug\WordCounter.csprojAssemblyReference.cache
-E:\git\BasicPrograming\WordCounter\WordCounter\obj\Debug\WordCounter.exe
-E:\git\BasicPrograming\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
