@@ -4,3 +4,9 @@ E:\git\HW_Session8\ShoppingList1\ShoppingList1\bin\Debug\ShoppingList1.exe
 E:\git\HW_Session8\ShoppingList1\ShoppingList1\bin\Debug\ShoppingList1.pdb
 E:\git\HW_Session8\ShoppingList1\ShoppingList1\obj\Debug\ShoppingList1.exe
 E:\git\HW_Session8\ShoppingList1\ShoppingList1\obj\Debug\ShoppingList1.pdb
+e:\git\BasicProgramming\ShoppingList1\ShoppingList1\bin\Debug\ShoppingList1.exe.config
+e:\git\BasicProgramming\ShoppingList1\ShoppingList1\bin\Debug\ShoppingList1.exe
+e:\git\BasicProgramming\ShoppingList1\ShoppingList1\bin\Debug\ShoppingList1.pdb
+e:\git\BasicProgramming\ShoppingList1\ShoppingList1\obj\Debug\ShoppingList1.csprojAssemblyReference.cache
+e:\git\BasicProgramming\ShoppingList1\ShoppingList1\obj\Debug\ShoppingList1.exe
+e:\git\BasicProgramming\ShoppingList1\ShoppingList1\obj\Debug\ShoppingList1.pdb
